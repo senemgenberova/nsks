@@ -1,0 +1,6 @@
+Server=localhost
+Database=image
+Username=root
+Password=
+Table=picture
+Fieldname=path
